@@ -1,0 +1,21 @@
+body{
+    background-color: #c3b9e7;
+  }
+  
+  h1{
+    color:#900C3F;
+  
+  }
+  h3{
+    color:brown;
+  }
+
+  .img{
+      width:90% ;
+      border-color: brown;
+  }
+  .outer{
+      background: -webkit-linear-gradient(left,honeydew,lightblue);
+      border-style: solid;
+      text-align:left;
+  }
